@@ -1,0 +1,23 @@
+body {
+	font-size: 14px;
+	line-height: 1.2;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-family: "PT Sans","Arial", sans-serif;
+}
+
+.sedona-main {
+	font-size: 21px;
+	line-height: 26px;	
+}
+
+.white-font {
+	font-size: 21px;	
+	color: white;	
+}
+
+.black-font {
+	font-size: 21px;	
+	color: black;	
+}
+
